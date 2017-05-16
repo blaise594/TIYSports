@@ -22,3 +22,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.profile-header-img > img.img-circle {
+    width: 120px;
+    height: 120px;
+    
+}
